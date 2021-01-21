@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Unicentro_V1_MS6'
